@@ -1,7 +1,7 @@
 # Dice_Roller_App
 Esse é um app para trabalhar os conceitos de ViewGoup e Activity.
 
-![Image](https://github.com/luishads/Dice_Roller_App/blob/master/DiceRoller_V1_02.png)
+![Image](https://github.com/luishads/Dice_Roller_App/blob/master/DiceRoller_mov.GIF)
 
 # ViewGoup
 Um **ViewGroup** é um `View`— muitas vezes invisível para o usuário — que contém e posiciona outras visualizações dentro dele (chamadas de seus filhos), criando uma **hierarquia de visualização** . Qualquer layout para um aplicativo Android sempre começa com a `ViewGroup`como pai e contém visualizações filhas.
